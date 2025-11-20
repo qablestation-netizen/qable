@@ -5,8 +5,7 @@ import { componentTagger } from "lovable-tagger";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
-  // Set base to '/' for custom domain (limitlessnett.com)
-  base: '/',
+  base: "/",
   server: {
     host: "::",
     port: 8080,
