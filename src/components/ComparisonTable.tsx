@@ -19,7 +19,7 @@ const ComparisonTable = () => {
           <thead>
             <tr className="bg-gradient-to-r from-primary/10 to-accent/10">
               <th className="text-left p-6 text-foreground font-bold">Feature</th>
-              <th className="text-center p-6 text-foreground font-bold">USA Best Cable</th>
+              <th className="text-center p-6 text-foreground font-bold">Qable station</th>
               <th className="text-center p-6 text-muted-foreground font-bold">Others</th>
             </tr>
           </thead>

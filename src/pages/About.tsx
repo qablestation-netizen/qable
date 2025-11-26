@@ -46,7 +46,7 @@ const About = () => {
                 Our Mission
               </h2>
               <p className="text-lg text-muted-foreground leading-relaxed">
-                At USA Best Cable, we believe that fast, reliable internet is not a luxury—it's a necessity. 
+                At Qable station, we believe that fast, reliable internet is not a luxury—it's a necessity. 
                 Our mission is to bridge the digital divide and ensure that everyone has access to 
                 world-class connectivity that empowers them to learn, work, and connect with the world.
               </p>
@@ -70,7 +70,7 @@ const About = () => {
                 </div>
                 <h3 className="text-2xl font-bold text-foreground mb-4">Our Story</h3>
                 <p className="text-muted-foreground leading-relaxed">
-                  Founded in 2010 by a team of tech enthusiasts, USA Best Cable started with 
+                  Founded in 2010 by a team of tech enthusiasts, Qable station started with 
                   a simple goal: to bring fiber-optic internet to underserved communities. 
                   Today, we proudly serve over 500,000 customers nationwide.
                 </p>
@@ -150,7 +150,7 @@ const About = () => {
               Meet Our Leadership
             </h2>
             <p className="text-muted-foreground max-w-2xl mx-auto">
-              The passionate team driving USA Best Cable forward
+              The passionate team driving Qable station forward
             </p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-5xl mx-auto">

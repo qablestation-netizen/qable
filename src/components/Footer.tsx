@@ -14,10 +14,10 @@ const Footer = () => {
             <Link to="/" className="flex items-center gap-3 group inline-block">
               <img 
                 src={logo} 
-                alt="USA Best Cable Logo" 
+                alt="Qable station Logo" 
                 className="h-10 w-auto brightness-0 invert transition-smooth group-hover:scale-105"
               />
-              <span className="text-xl font-bold">USA Best Cable</span>
+              <span className="text-xl font-bold">Qable station</span>
             </Link>
             <p className="text-white/80 text-sm">
               America's trusted partner for blazing-fast fiber internet, premium TV, and reliable connectivity solutions.
@@ -93,7 +93,7 @@ const Footer = () => {
         </div>
 
         <div className="pt-8 border-t border-white/20 flex flex-col md:flex-row justify-between items-center gap-4 text-sm text-white/70">
-          <p>&copy; 2025 USA Best Cable. All rights reserved.</p>
+          <p>&copy; 2025 Qable station. All rights reserved.</p>
           <div className="flex gap-6">
             <a href="#" className="hover:text-white transition-smooth">Privacy Policy</a>
             <a href="#" className="hover:text-white transition-smooth">Terms of Service</a>

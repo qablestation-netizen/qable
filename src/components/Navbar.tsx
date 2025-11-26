@@ -26,11 +26,11 @@ const Navbar = () => {
           <Link to="/" className="flex items-center gap-3 group">
             <img 
               src={logo} 
-              alt="USA Best Cable Logo" 
+              alt="Qable station Logo" 
               className="h-12 w-auto transition-smooth group-hover:scale-105"
             />
             <span className="text-xl font-bold bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">
-              USA Best Cable
+              Qable station
             </span>
           </Link>
 

@@ -82,7 +82,7 @@ const Home = () => {
     {
       name: "Michael Chen",
       role: "Small Business Owner",
-      content: "USA Best Cable's business plan has transformed our operations. The reliability and support are unmatched. Our productivity has increased by 40%!",
+      content: "Qable station's business plan has transformed our operations. The reliability and support are unmatched. Our productivity has increased by 40%!",
       gradient: "bg-gradient-to-br from-pastel-sky via-pastel-mint to-primary",
     },
     {
@@ -327,7 +327,7 @@ const Home = () => {
               </div>
               
               <h2 className="text-4xl md:text-5xl font-bold text-foreground mb-6">
-                Why Customers Love USA Best Cable
+                Why Customers Love Qable station
               </h2>
               
               <p className="text-lg text-foreground/80 mb-8 leading-relaxed">
@@ -388,7 +388,7 @@ const Home = () => {
               <Users className="w-12 h-12 text-primary mx-auto animate-heartbeat" />
             </div>
             <h2 className="text-3xl sm:text-4xl font-bold text-foreground mb-4">
-              Why Families Choose USA Best Cable
+              Why Families Choose Qable station
             </h2>
             <p className="text-muted-foreground max-w-2xl mx-auto">
               Real stories from real customers across America
@@ -406,7 +406,7 @@ const Home = () => {
               <CheckCircle className="w-12 h-12 text-primary mx-auto animate-pulse-slow" />
             </div>
             <h2 className="text-3xl sm:text-4xl font-bold text-foreground mb-4">
-              Why USA Best Cable Stands Out
+              Why Qable station Stands Out
             </h2>
             <p className="text-muted-foreground max-w-2xl mx-auto">
               See how we compare to other internet providers
@@ -473,7 +473,7 @@ const Home = () => {
               <Globe className="w-12 h-12 text-primary mx-auto animate-pulse-slow" />
             </div>
             <h2 className="text-3xl sm:text-4xl font-bold text-foreground mb-4">
-              What's New with USA Best Cable?
+              What's New with Qable station?
             </h2>
             <p className="text-muted-foreground max-w-2xl mx-auto">
               Expert tips, guides, and news to help you get the most from your internet

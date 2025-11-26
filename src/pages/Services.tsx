@@ -166,7 +166,7 @@ const Services = () => {
               Ready to Get Started?
             </h2>
             <p className="text-white/90 mb-8 max-w-2xl mx-auto text-lg">
-              Join thousands of satisfied customers and experience the USA Best Cable difference today.
+              Join thousands of satisfied customers and experience the Qable station difference today.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Button variant="soft" size="lg">

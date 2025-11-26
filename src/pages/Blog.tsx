@@ -58,7 +58,7 @@ const Blog = () => {
   return (
     <div className="min-h-screen">
       <Hero
-        title="USA Best Cable Blog & Resources"
+        title="Qable station Blog & Resources"
         subtitle="Stay informed with the latest tips, news, and insights about internet technology, connectivity, and digital life."
         ctaText="Subscribe"
         showSecondary={false}
