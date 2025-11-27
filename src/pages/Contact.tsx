@@ -11,7 +11,7 @@ const Contact = () => {
       icon: <Phone className="w-8 h-8" />,
       title: "Call Us Anytime",
       description: "Speak with our team directly",
-      details: "1-800-USA-CABLE",
+      details: "(888) 867-0095",
       color: "from-primary/20 to-primary/5",
       delay: "0s"
     },
@@ -46,7 +46,8 @@ const Contact = () => {
         title="Let's Connect"
         subtitle="We're here to answer your questions and help you get the perfect internet solution for your needs."
         showSecondary={false}
-        ctaText="Call Us Now"
+        ctaText="(888) 867-0095"
+        ctaLink="tel:8888670095"
       />
 
       {/* Unique Split Layout Section */}
@@ -103,9 +104,11 @@ const Contact = () => {
                       </div>
                     ))}
                   </div>
-                  <Button variant="soft" className="mt-6 w-full bg-white text-primary hover:bg-white/90">
-                    <Phone className="w-4 h-4 mr-2" />
-                    Call 1-800-USA-CABLE
+                  <Button variant="soft" className="mt-6 w-full bg-white text-primary hover:bg-white/90" asChild>
+                    <a href="tel:8888670095">
+                      <Phone className="w-4 h-4 mr-2" />
+                      Call (888) 867-0095
+                    </a>
                   </Button>
                 </div>
               </div>

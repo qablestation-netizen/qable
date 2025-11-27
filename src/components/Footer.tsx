@@ -22,6 +22,12 @@ const Footer = () => {
             <p className="text-white/80 text-sm">
               America's trusted partner for blazing-fast fiber internet, premium TV, and reliable connectivity solutions.
             </p>
+            <div className="mt-4">
+              <a href="tel:8888670095" className="text-xl font-bold text-white hover:text-primary transition-colors">
+                (888) 867-0095
+              </a>
+              <p className="text-white/60 text-xs mt-1">24/7 Customer Support</p>
+            </div>
             <div className="flex gap-3">
               {[Facebook, Twitter, Instagram, Linkedin].map((Icon, index) => (
                 <a

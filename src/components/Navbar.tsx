@@ -53,7 +53,7 @@ const Navbar = () => {
 
           <div className="hidden md:flex items-center gap-3">
             <Button variant="hero" size="sm" asChild>
-              <Link to="/plans">Get Started</Link>
+              <a href="tel:8888670095">(888) 867-0095</a>
             </Button>
           </div>
 
@@ -87,7 +87,7 @@ const Navbar = () => {
             ))}
             <div className="pt-2">
               <Button variant="hero" className="w-full" asChild>
-                <Link to="/plans">Get Started</Link>
+                <a href="tel:8888670095">(888) 867-0095</a>
               </Button>
             </div>
           </div>
